@@ -45,7 +45,7 @@ int main()
 
     cout << endl;
     cout << endl;
-    cout << "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" << endl;
+    cout << "--" << endl;
     cout << endl;
 
 //example 2
